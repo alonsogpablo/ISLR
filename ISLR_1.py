@@ -19,4 +19,5 @@ sns.regplot(advertising.TV, advertising.Sales, order=1, ci=None, scatter_kws={'c
 plt.xlim(-10,310)
 plt.ylim(ymin=0);
 
+
 plt.show()
